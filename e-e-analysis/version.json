@@ -1,5 +1,5 @@
 {
-  "version": "1.0",
-  "notes": "Initial release.",
-  "date": "2026-06-15"
+  "version": "1.1",
+  "notes": "Overlay Comparer, measurement grouping, and per-install config window.",
+  "date": "2026-06-17"
 }
