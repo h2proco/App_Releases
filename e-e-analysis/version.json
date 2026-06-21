@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
-  "notes": "User manual now ships as a PDF in the download; full docs overhaul.",
-  "date": "2026-06-18"
+  "version": "1.1.2",
+  "notes": "Improved OER end-of-plateau detection and a draggable OER-end marker in the knee check.",
+  "date": "2026-06-21"
 }
