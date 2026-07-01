@@ -1,5 +1,5 @@
 {
-  "version": "1.1.3",
-  "notes": "Energy-efficiency-to-cut-off column, more robust OER plunge detection, and a per-cycle analysis-error sheet.",
-  "date": "2026-06-28"
+  "version": "1.1.4",
+  "notes": "Choose the OER end-of-plateau method (robust plunge or fixed hold-back), a configurable valid-cycle F.E. threshold, and a smarter comparer series splitter.",
+  "date": "2026-07-01"
 }
