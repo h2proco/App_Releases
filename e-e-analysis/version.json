@@ -1,5 +1,5 @@
 {
-  "version": "1.1.4",
-  "notes": "Choose the OER end-of-plateau method (robust plunge or fixed hold-back), a configurable valid-cycle F.E. threshold, and a smarter comparer series splitter.",
-  "date": "2026-07-01"
+  "version": "1.1.5",
+  "notes": "IVIUM Experiment stage columns (programmed charge/discharge current density + time); OER end defaults to fixed 5 C/cm2 hold-back.",
+  "date": "2026-07-05"
 }
