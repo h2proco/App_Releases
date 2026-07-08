@@ -1,5 +1,5 @@
 {
-  "version": "1.1.5",
-  "notes": "IVIUM Experiment stage columns (programmed charge/discharge current density + time); OER end defaults to fixed 5 C/cm2 hold-back.",
-  "date": "2026-07-05"
+  "version": "1.1.6",
+  "notes": "Shaded +/-std group-average bands, clearer borderless chart markers, automatic file ordering, and screen-aware window sizing.",
+  "date": "2026-07-08"
 }
