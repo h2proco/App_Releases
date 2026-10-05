@@ -1,5 +1,5 @@
 {
-  "version": "1.1.7",
-  "notes": "Add opt-in measured charging/discharging average current and applied-charge columns (per-cycle charts + per-electrode-area normalization).",
-  "date": "2026-08-26"
+  "version": "1.1.8",
+  "notes": "Ignore-files-by-name, pre-run output save check, faster large-file loading, and auto window re-fit on monitor undock.",
+  "date": "2026-10-05"
 }
